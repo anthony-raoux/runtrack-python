@@ -15,6 +15,11 @@ nom = "banane"
 
 prix_unitaire = "4€"
 
-quantité_en_stock = "20"
+quantite_en_stock = "20"
 
-print(f'informations du produit {nom=} {prix_unitaire=} {quantité_en_stock=}')
+inflation = "10%"
+
+print(f'informations du produit {nom=} {prix_unitaire=} {quantite_en_stock=}')
+
+acheter_nom = int(input(f"Combien d'unités de {nom} souhaitez-vous acheter? "))
+
