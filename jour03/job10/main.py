@@ -6,5 +6,8 @@ def fonc_num(a):
     
 fonc_num(4)
 fonc_num(3)
+fonc_num(16)
+fonc_num(33)
+
 
 
